@@ -4,7 +4,7 @@ This repository contains the research paper titled ["Evaluation of Automotive Pa
 
 **Abstract:** The problem of supplier selection is an important concern for all businesses. Also, as environmental concerns are mounting and socio-economic crises are increasing worldwide, the need for resilient and environment-friendly suppliers is aggravating. Companies are under tremendous pressure to redefine their business practices and operations to achieve sustainability goals while being resilient. The study aims to evaluate the Chinese automotive parts suppliers based on 'gresilience' (green and resilient) criteria. The suppliers are evaluated using the Ordinal Priority Approach (OPA) and TOPSIS models. Also, it is the first time the TOPSIS model has been executed on the OPA-based criteria weights. The results from the two methods were mostly consistent. However, the OPA is flexible and can produce ranking under different assumptions.
 
-----
+---
 
 ## Publication_02
 
