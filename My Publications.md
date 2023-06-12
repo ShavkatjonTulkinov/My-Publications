@@ -1,5 +1,3 @@
-# Publications
-
 ## Publication_01
 
 This repository contains the research paper titled ["Evaluation of Automotive Parts Suppliers through Ordinal Priority Approach and TOPSIS"](https://doi.org/10.52812/msbd.37)
